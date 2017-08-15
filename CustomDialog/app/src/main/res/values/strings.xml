@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="tempTExt">In previous tutorial we learn about android simple dialog in android. But in your live application you have to work according to your client preferred design layout, so you need to customize the alert dialog. Here we use a custom layout with ‘Dialog’ class to make it design different looking. Create a project in android and use the shortcode below otherwise download full source code of this android application</string>
+</resources>
